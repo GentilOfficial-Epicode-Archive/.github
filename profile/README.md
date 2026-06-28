@@ -1,4 +1,4 @@
-# GentilOfficial Archive
+# GentilOfficial Epicode Archive
 
 This organization serves as the permanent archive for projects developed by **GentilOfficial** throughout learning paths, coursework, and personal experimentation.
 
